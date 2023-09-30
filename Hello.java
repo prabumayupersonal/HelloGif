@@ -5,6 +5,7 @@ public static void main(String[] args) {
 	System.out.println("Mayusri");
 	System.out.println("Mayusri");
 	System.out.println("Mayu");
+	System.out.println("Divorse");
 	//kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 	//jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
 }
